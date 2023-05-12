@@ -28,5 +28,10 @@ def checkwin(player):
     else:
         return False
     
+def tic_tac_toe():
+    player1 = 'X'
+    player2 = 'O'
+    current_player = player1
+    
     
     
